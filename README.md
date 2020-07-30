@@ -18,5 +18,9 @@ testing-test
 │   ├── 05_timer_spec.rb
 │   └── 06_pig_latin_spec.rb
 └── README.md
-```
-                                                                                     by ny-toky-fitiavana02
+
+                Ce projet consiste avant tout à vous faire montrer le foncionnement du test rspec que vous allez utiliser dans des exercices. Il vous permettra projet vous  à la fois de vous initialisez avec des programmes simples en utilisant la technique des méthodes, puis de vous faire un aperçu sur les tests.
+
+
+```   
+                                                                                                           by ny-toky-fitiavana02
