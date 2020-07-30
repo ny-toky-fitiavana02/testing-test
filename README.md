@@ -1,8 +1,8 @@
 # testing-test
 
-### Folder structure
+### Composition du projet
 ```
-TDD
+testing-test
 ├── lib
 │   ├── 00_hello.rb
 │   ├── 01_temperature.rb
@@ -19,3 +19,4 @@ TDD
 │   └── 06_pig_latin_spec.rb
 └── README.md
 ```
+                                                                                     by ny-toky-fitiavana02
